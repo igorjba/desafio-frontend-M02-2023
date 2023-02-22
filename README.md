@@ -1,21 +1,34 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio | Front-end - Módulo 1
+# Desafio | Front-end - Módulo 2
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+## Índice
+    
+- [Desafio | Front-end - Módulo 2](#desafio--front-end---módulo-2)
+  - [Índice](#índice)
+  - [Sobre](#sobre)
+  - [Construído com](#construído-com)
+  - [Páginas](#páginas)
+    - [Home](#home)
+    - [Portfolio](#portfolio)
+    - [Portfolio - 01 - Manage](#portfolio---01---manage)
+    - [Portfolio - 02 - Bookmark](#portfolio---02---bookmark)
+    - [Portfolio - 03 - Insure](#portfolio---03---insure)
+    - [Portfolio - 04 - Fylo](#portfolio---04---fylo)
+    - [Contato](#contato)
 
-## Páginas obrigatórias
 
-- [Home](#Home)
+## Sobre
+Este projeto foi desenvolvido durante o módulo 2 do curso de front-end da Cubos Academy. Com o objetivo de replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
 
-## Páginas opcionais
+## Construído com
 
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
-- [Contato](#Contato)
+<br />
+
+<img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"><img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+
+<br />
+
+## Páginas
 
 ### Home
 
@@ -141,6 +154,4 @@ Seções
 - Footer ![](https://i.imgur.com/P06m37L.png)
 
 
-**LEMBRE-SE**: é melhor feito do quê perfeito!!!
-
-###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
+[Ir para o topo](#desafio--front-end---módulo-2)

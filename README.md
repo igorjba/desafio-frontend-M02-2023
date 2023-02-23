@@ -1,31 +1,39 @@
 
-# Desafio | Front-end - Módulo 2
+# Portifólio
 
 ## Índice
-    
-- [Desafio | Front-end - Módulo 2](#desafio--front-end---módulo-2)
-  - [Índice](#índice)
-  - [Sobre](#sobre)
-  - [Construído com](#construído-com)
-  - [Páginas](#páginas)
-    - [Home](#home)
-    - [Portfolio](#portfolio)
-    - [Portfolio - 01 - Manage](#portfolio---01---manage)
-    - [Portfolio - 02 - Bookmark](#portfolio---02---bookmark)
-    - [Portfolio - 03 - Insure](#portfolio---03---insure)
-    - [Portfolio - 04 - Fylo](#portfolio---04---fylo)
-    - [Contato](#contato)
 
+- [Como visualizar o projeto](#como-visualizar-o-projeto)<!-- omit from toc -->
+- [Sobre](#sobre)
+- [Construído com](#construído-com)
+- [Páginas do projeto](#páginas-do-projeto)
 
-## Sobre
-Este projeto foi desenvolvido durante o módulo 2 do curso de front-end da Cubos Academy. Com o objetivo de replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+## Como visualizar o projeto
+
+Para visualizar o projeto, basta acessar o link: [https://igorjba.github.io/desafio-frontend-M02-2023](https://igorjba.github.io/desafio-frontend-M02-2023)
+
+## Sobre 
+Durante o módulo 2 do curso de Desenvolvedor de Software Full Stack na Cubos Academy, foi desenvolvido um projeto com o objetivo de replicar o website encontrado no arquivo Figma intitulado "Desafio front academy 1.fig". O projeto foi implementado utilizando apenas HTML e CSS para criar a estrutura e o design da página.
+
+A página é um portfólio, que oferece ao usuário a possibilidade de visualizar exemplos de projetos desenvolvidos pelo próprio desenvolvedor. O objetivo principal da página é destacar as habilidades e experiências do desenvolvedor na área de programação e desenvolvimento de software. Para garantir uma experiência agradável ao usuário, o design e a estrutura da página foram cuidadosamente planejados para garantir uma navegação fácil e intuitiva.
 
 ## Construído com
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure" target="_blank"><img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>
 <br/>
 
-## Páginas
+## Páginas do projeto
+
+<detail>
+
+- [Home](#home) <!-- omit from toc -->
+- [Portfolio](#portfolio)
+- [Portfolio - 01 - Manage](#portfolio---01---manage)
+- [Portfolio - 02 - Bookmark](#portfolio---02---bookmark)
+- [Portfolio - 03 - Insure](#portfolio---03---insure)
+- [Portfolio - 04 - Fylo](#portfolio---04---fylo)
+- [Contato](#contato)
+</detail>
 
 ### Home
 
@@ -152,3 +160,5 @@ Seções
 
 
 [Ir para o topo](#desafio--front-end---módulo-2)
+
+[def]: #home

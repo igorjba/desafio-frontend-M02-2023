@@ -29,7 +29,7 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 
 ## Páginas do projeto
 <br/>
-<details>
+
 
 - [Home](#home) <!-- omit from toc -->
 - [Portfólio](#portfólio)
@@ -38,13 +38,13 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 - [Portfólio - 03 - Insure](#portfólio---03---insure)
 - [Portfólio - 04 - Fylo](#portfólio---04---fylo)
 - [Contato](#contato)
-</details>
+
 <br/>
 
 ### Home
 <br/>
 
-Seções
+#### Seções
 <br/>
 
 
@@ -62,7 +62,7 @@ Seções
 ### Portfólio
 <br/>
 
-Seções
+#### Seções
 <br/>
 
 - Header ![](https://i.imgur.com/1pDIzMz.png "Header do portfólio")
@@ -82,7 +82,8 @@ Seções
 
 ### Portfólio - 01 - Manage
 <br/>
-Seções
+
+#### Seções
 
 <br/>
 
@@ -104,7 +105,8 @@ Seções
 
 ### Portfólio - 02 - Bookmark
 <br/>
-Seções
+
+#### Seções
 
 <br/>
 
@@ -127,7 +129,8 @@ Seções
 
 ### Portfólio - 03 - Insure
 <br/>
-Seções
+
+#### Seções
 
 <br/>
 
@@ -151,7 +154,7 @@ Seções
 ### Portfólio - 04 - Fylo
 <br/>
 
-Seções
+#### Seções
 <br/>
 
 - Header ![](https://i.imgur.com/1pDIzMz.png "Header do Fylo")
@@ -174,7 +177,7 @@ Seções
 ### Contato
 <br/>
 
-Seções
+#### Seções
 <br/>
 
 - Header ![](https://i.imgur.com/ubDorki.png "Header do Contato")

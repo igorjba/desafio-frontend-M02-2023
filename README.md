@@ -13,13 +13,18 @@
 Para visualizar o projeto, basta acessar o link: [https://igorjba.github.io/desafio-frontend-M02-2023](https://igorjba.github.io/desafio-frontend-M02-2023)
 
 ## Sobre 
-Durante o módulo 2 do curso de Desenvolvedor de Software Full Stack na Cubos Academy, foi desenvolvido um projeto com o objetivo de replicar o website encontrado no arquivo Figma intitulado "Desafio front academy 1.fig". O projeto foi implementado utilizando apenas HTML e CSS para criar a estrutura e o design da página.
 
-A página é um portfólio, que oferece ao usuário a possibilidade de visualizar exemplos de projetos desenvolvidos pelo próprio desenvolvedor. O objetivo principal da página é destacar as habilidades e experiências do desenvolvedor na área de programação e desenvolvimento de software. Para garantir uma experiência agradável ao usuário, o design e a estrutura da página foram cuidadosamente planejados para garantir uma navegação fácil e intuitiva.
+Este projeto foi desenvolvido durante o módulo 2 do curso de front-end da [Cubos Academy](https://cubos.academy/cursos/desenvolvimento-de-software). O objetivo era aplicar os conhecimentos adquiridos criando um portfólio que apresenta quatro projetos: Manage, Bookmark, Insure e Fylo. Utilizamos [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) e [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) para construir a estrutura e o design da página, que foi baseado no layout disponível no Figma.
+
+O portfólio permite que os usuários visualizem exemplos dos projetos desenvolvidos pelo autor, destacando suas habilidades e experiências em programação e desenvolvimento de software. O design da página foi cuidadosamente planejado para garantir uma navegação fácil e intuitiva, proporcionando uma experiência agradável ao usuário.
+
+No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitado apenas ao uso de [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) e [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS), e portanto, a funcionalidade da página é limitada.
+
 
 ## Construído com
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure" target="_blank"><img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img align="center" title="HTML" alt="Igor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img align="center" title="CSS" alt="Igor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></a>
 <br/>
 
 ## Páginas do projeto

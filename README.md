@@ -1,5 +1,5 @@
 
-# Portifólio
+# Portfólio
 
 ## Índice
 
@@ -28,142 +28,164 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 <br/>
 
 ## Páginas do projeto
-
-<detail>
+<br/>
+<details>
 
 - [Home](#home) <!-- omit from toc -->
-- [Portfolio](#portfolio)
-- [Portfolio - 01 - Manage](#portfolio---01---manage)
-- [Portfolio - 02 - Bookmark](#portfolio---02---bookmark)
-- [Portfolio - 03 - Insure](#portfolio---03---insure)
-- [Portfolio - 04 - Fylo](#portfolio---04---fylo)
+- [Portfólio](#portfólio)
+- [Portfólio - 01 - Manage](#portfólio---01---manage)
+- [Portfólio - 02 - Bookmark](#portfólio---02---bookmark)
+- [Portfólio - 03 - Insure](#portfólio---03---insure)
+- [Portfólio - 04 - Fylo](#portfólio---04---fylo)
 - [Contato](#contato)
-</detail>
+</details>
+<br/>
 
 ### Home
+<br/>
 
 Seções
+<br/>
 
-- Header ![](https://i.imgur.com/Vwj9U0y.png)
 
-- Hero Section ![](https://i.imgur.com/tjYO6R6.png)
+- Header ![](https://i.imgur.com/Vwj9U0y.png "Header da home")
 
-- Sobre Section ![](https://i.imgur.com/KHPaEWW.png)
+- Hero Section ![](https://i.imgur.com/tjYO6R6.png "Hero Section da home")
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Sobre Section ![](https://i.imgur.com/KHPaEWW.png "Sobre Section da home")
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section da home")
 
-### Portfolio
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer da home")
+<br/>
 
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Manage Section ![](https://i.imgur.com/jHweGIb.png)
-
-- Bookmark Section ![](https://i.imgur.com/uTpctrq.png)
-
-- Insure Section ![](https://i.imgur.com/BsAWB7m.png)
-
-- Fylo Section ![](https://i.imgur.com/W9s2afk.png)
-
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
-
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-### Portfolio - 01 - Manage
+### Portfólio
+<br/>
 
 Seções
+<br/>
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
+- Header ![](https://i.imgur.com/1pDIzMz.png "Header do portfólio")
 
-- Hero Section ![](https://i.imgur.com/JYY2lNG.png)
+- Manage Section ![](https://i.imgur.com/jHweGIb.png "Manage Section do portfólio")
 
-- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png)
+- Bookmark Section ![](https://i.imgur.com/uTpctrq.png "Bookmark Section do portfólio")
+
+- Insure Section ![](https://i.imgur.com/BsAWB7m.png "Insure Section do portfólio")
+
+- Fylo Section ![](https://i.imgur.com/W9s2afk.png "Fylo Section do portfólio")
+
+- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section do portfólio")
+
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer do portfólio")
+<br/>
+
+### Portfólio - 01 - Manage
+<br/>
+Seções
+
+<br/>
+
+- Header ![](https://i.imgur.com/1pDIzMz.png "Header do Manage")
+
+- Hero Section ![](https://i.imgur.com/JYY2lNG.png "Hero Section do Manage")
+
+- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png "Descrição Projeto Aside do Manage")
 
 - Main Section
-  ![](https://i.imgur.com/O1JyZtK.png)
+  ![](https://i.imgur.com/O1JyZtK.png "Main Section do Manage")
 
-- Links Section ![](https://i.imgur.com/zGJMDOE.png)
+- Links Section ![](https://i.imgur.com/zGJMDOE.png "Links Section do Manage")
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section do Manage")
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer do Manage")
+<br/>
 
-### Portfolio - 02 - Bookmark
-
+### Portfólio - 02 - Bookmark
+<br/>
 Seções
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
+<br/>
 
-- Hero Section ![](https://i.imgur.com/ag3Madi.png)
+- Header ![](https://i.imgur.com/1pDIzMz.png "Header do Bookmark")
+
+- Hero Section ![](https://i.imgur.com/ag3Madi.png "Hero Section do Bookmark")
 
 - Descrição Projeto Aside
-  ![](https://i.imgur.com/JDvgptu.png)
+  ![](https://i.imgur.com/JDvgptu.png "Descrição Projeto Aside do Bookmark")
 
 - Main Section
-  ![](https://i.imgur.com/T41K6z3.png)
+  ![](https://i.imgur.com/T41K6z3.png "Main Section do Bookmark")
 
-- Links Section ![](https://i.imgur.com/UpCLzFL.png)
+- Links Section ![](https://i.imgur.com/UpCLzFL.png "Links Section do Bookmark")
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section do Bookmark")
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer do Bookmark")
+<br/>
 
-### Portfolio - 03 - Insure
-
+### Portfólio - 03 - Insure
+<br/>
 Seções
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
+<br/>
 
-- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png)
+- Header ![](https://i.imgur.com/1pDIzMz.png "Header do Insure")
+
+- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png "Hero Section do Insure")
 
 - Descrição Projeto Aside
-  ![](https://i.imgur.com/zofNYva.png)
+  ![](https://i.imgur.com/zofNYva.png "Descrição Projeto Aside do Insure")
 
 - Main Section
-  ![](https://i.imgur.com/BMMJXlz.png)
+  ![](https://i.imgur.com/BMMJXlz.png "Main Section do Insure")
 
-- Links Section ![](https://i.imgur.com/9fYN4lI.png)
+- Links Section ![](https://i.imgur.com/9fYN4lI.png "Links Section do Insure")
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section do Insure")
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer do Insure")
+<br/>
 
-### Portfolio - 04 - Fylo
+### Portfólio - 04 - Fylo
+<br/>
 
 Seções
+<br/>
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
+- Header ![](https://i.imgur.com/1pDIzMz.png "Header do Fylo")
 
-- Hero Section ![](https://i.imgur.com/7IcYjiF.png)
+- Hero Section ![](https://i.imgur.com/7IcYjiF.png "Hero Section do Fylo")
 
 - Descrição Projeto Aside
-  ![](https://i.imgur.com/fKuRKYX.png)
+  ![](https://i.imgur.com/fKuRKYX.png "Descrição Projeto Aside do Fylo")
 
 - Main Section
-  ![](https://i.imgur.com/MQC6y17.png)
+  ![](https://i.imgur.com/MQC6y17.png "Main Section do Fylo")
 
-- Links Section ![](https://i.imgur.com/3WGHl8V.png)
+- Links Section ![](https://i.imgur.com/3WGHl8V.png "Links Section do Fylo")
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section do Fylo")
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer do Fylo")
+<br/>
 
 ### Contato
+<br/>
 
 Seções
+<br/>
 
-- Header ![](https://i.imgur.com/ubDorki.png)
+- Header ![](https://i.imgur.com/ubDorki.png "Header do Contato")
 
-- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png)
+- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png "Entre em contato Section do Contato")
 
-- Contato Section ![](https://i.imgur.com/VvO2m7w.png)
+- Contato Section ![](https://i.imgur.com/VvO2m7w.png "Contato Section do Contato")
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Footer ![](https://i.imgur.com/P06m37L.png "Footer do Contato")
+<br/>
 
-
-[Ir para o topo](#desafio--front-end---módulo-2)
+[Ir para o topo](#Portfólio)
 
 [def]: #home

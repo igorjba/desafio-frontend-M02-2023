@@ -48,9 +48,11 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 <br/>
 
 
-- Header ![](https://i.imgur.com/Vwj9U0y.png "Header da home")
+- Header  
+![](https://i.imgur.com/Vwj9U0y.png "Header da home")
 
-- Hero Section ![](https://i.imgur.com/tjYO6R6.png "Hero Section da home")
+- Hero Section  
+![](https://i.imgur.com/tjYO6R6.png "Hero Section da home")
 
 - Sobre Section ![](https://i.imgur.com/KHPaEWW.png "Sobre Section da home")
 
@@ -89,16 +91,20 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 
 - Header ![](https://i.imgur.com/1pDIzMz.png "Header do Manage")
 
-- Hero Section ![](https://i.imgur.com/JYY2lNG.png "Hero Section do Manage")
+- Hero Section  
+![](https://i.imgur.com/JYY2lNG.png "Hero Section do Manage")
 
-- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png "Descrição Projeto Aside do Manage")
+- Descrição Projeto Aside  
+![](https://i.imgur.com/uEgRim6.png "Descrição Projeto Aside do Manage")
 
-- Main Section
-  ![](https://i.imgur.com/O1JyZtK.png "Main Section do Manage")
+- Main Section  
+![](https://i.imgur.com/O1JyZtK.png "Main Section do Manage")
 
-- Links Section ![](https://i.imgur.com/zGJMDOE.png "Links Section do Manage")
+- Links Section  
+![](https://i.imgur.com/zGJMDOE.png "Links Section do Manage")
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png "Contato Section do Manage")
+- Contato Section   
+![](https://i.imgur.com/e88URFi.png "Contato Section do Manage")
 
 - Footer ![](https://i.imgur.com/P06m37L.png "Footer do Manage")
 <br/>

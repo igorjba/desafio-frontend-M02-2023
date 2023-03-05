@@ -120,11 +120,11 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 
 - Hero Section ![](https://i.imgur.com/ag3Madi.png "Hero Section do Bookmark")
 
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/JDvgptu.png "Descrição Projeto Aside do Bookmark")
+- Descrição Projeto Aside  
+![](https://i.imgur.com/JDvgptu.png "Descrição Projeto Aside do Bookmark")
 
-- Main Section
-  ![](https://i.imgur.com/T41K6z3.png "Main Section do Bookmark")
+- Main Section  
+![](https://i.imgur.com/T41K6z3.png "Main Section do Bookmark")
 
 - Links Section ![](https://i.imgur.com/UpCLzFL.png "Links Section do Bookmark")
 
@@ -144,11 +144,11 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 
 - Hero Section ![](https://i.imgur.com/yJMQ0iJ.png "Hero Section do Insure")
 
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/zofNYva.png "Descrição Projeto Aside do Insure")
+- Descrição Projeto Aside  
+![](https://i.imgur.com/zofNYva.png "Descrição Projeto Aside do Insure")
 
-- Main Section
-  ![](https://i.imgur.com/BMMJXlz.png "Main Section do Insure")
+- Main Section  
+![](https://i.imgur.com/BMMJXlz.png "Main Section do Insure")
 
 - Links Section ![](https://i.imgur.com/9fYN4lI.png "Links Section do Insure")
 
@@ -167,11 +167,11 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 
 - Hero Section ![](https://i.imgur.com/7IcYjiF.png "Hero Section do Fylo")
 
-- Descrição Projeto Aside
-  ![](https://i.imgur.com/fKuRKYX.png "Descrição Projeto Aside do Fylo")
+- Descrição Projeto Aside  
+![](https://i.imgur.com/fKuRKYX.png "Descrição Projeto Aside do Fylo")
 
-- Main Section
-  ![](https://i.imgur.com/MQC6y17.png "Main Section do Fylo")
+- Main Section  
+![](https://i.imgur.com/MQC6y17.png "Main Section do Fylo")
 
 - Links Section ![](https://i.imgur.com/3WGHl8V.png "Links Section do Fylo")
 

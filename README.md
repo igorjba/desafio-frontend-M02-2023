@@ -195,6 +195,6 @@ No entanto, é importante ressaltar que o desenvolvimento do projeto foi limitad
 - Footer ![](https://i.imgur.com/P06m37L.png "Footer do Contato")
 <br/>
 
-[Ir para o topo](#Portfólio)
+<a href="#Portfólio"> Ir ao topo</a>
 
 [def]: #home
